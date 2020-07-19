@@ -1,0 +1,44 @@
+https://aurorepola.lofter.com/post/1d5adc4f_a5590a2
+大家都觉得自己是电灯泡系列【太平洋黑三角】-元子宸
+
+
+<pc){
+		o.style.width = pw+'px';
+		o.style.height = 'auto';
+		o.style.marginLeft = '0px';
+		o.style.marginTop = -(pw/c-ph)/2 + 'px';
+	}else{
+		o.style.height = ph+'px';
+		o.style.width = 'auto';
+		o.style.marginTop = '0px';
+		o.style.marginLeft = -(ph*c-pw)/2 + 'px';
+	}
+}
+window.onresize = function(){skin(document.getElementById('bg'))}
+</script>
+</head>
+<iframe id="control_frame" allowtransparency="true" scrolling="no" frameborder="0" style="position:fixed;_position:absolute;clear:both; width: 425px; height: 32px; z-index:1337; top:0; right:15px;zoom:1; border:0px; background-color:transparent; overflow:hidden;" src="//www.lofter.com/control?blogId=492493903&postId=173379746" ></iframe>
+<iframe style="display:none" src="https://l.bst.126.net/rsc/htm/music.html" ></iframe>
+
+<body>
+
+<div class="bbg"><img id="bg" src="//imglf3.nosdn0.126.net/img/155323606367395.jpg" onload="skin(document.getElementById('bg'))" />
+<p dir="ltr"  >【阿尔:伊万不按剧情来hero要制裁他！】</p> 
+<p dir="ltr"  >王耀的场合</p> 
+<p dir="ltr"  >“啊主持人小姐又来采访我了，表白我收下了我也喜欢你。”</p> 
+<p dir="ltr"  >“纸巾给你，小姐请问吧。”</p> 
+<p dir="ltr"  >“我觉得俄/罗/斯和美/国挺配的。骨子里都有大/国/沙/文/主/义，我们家有一个成语叫相爱相杀形容他们挺贴切的。”</p> 
+<p dir="ltr"  >“和苏/联结过婚？那是结盟，再说早就离了，偏偏那个白痴美/国佬死抓着我和他在情人节结盟这件事。这不是爱的深沉吗。”</p> 
+<p dir="ltr"  >“如果他们走到一起对他们说什么？快还钱。如果真在一起了……我去做个核弹冷静一下。”</p> 
+<p dir="ltr"  >Alfred F Jones的场合</p> 
+<p dir="ltr"  >“hero在上次说过了俄/罗/斯和中/国狼狈为奸嘛。”</p> 
+<p dir="ltr"  >“你们都声称hero是最大的红色党了hero当然得说一下。俄/罗/斯和中/国联合起来可是很可怕的。但是hero曾经拆散过他们。”</p> 
+<p dir="ltr"  >“那就no thanks 了，那一次是苏/联要对中/国种蘑菇的事，hero没做什么，就是告诉了中/国而已。”</p> 
+<p dir="ltr"  >“然而他们又搞在一起了，呵呵。”</p> 
+<p dir="ltr"  >伊万&middot;布拉金斯基的场合</p> 
+<p dir="ltr"  >“呐，中/国的家人来采访露西亚吗？请坐吧。”</p> 
+<p dir="ltr"  >“我觉得美/国和中/国确实很可疑哦，美/国这么讨厌肢体接触的家伙居然主动去抱中/国的腰，露西亚都没抱过QLQ。”</p> 
+<p dir="ltr"  >“他们的蜜月期就是我和中/国的关系破裂期啊，真是不爽呢，那么爱抢露西亚的东西。中/国是露西亚的哦，总有一天露西亚会把他捏碎抢回中/国的。”</p> 
+<p dir="ltr"  >“毕竟中/国是要和露西亚过日子的。^L^korukorukoru…”</p>
+                        
+                    
